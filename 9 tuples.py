@@ -1,7 +1,6 @@
 # none premitive , it's like a series , immutable
 # mutable means changable values and opposite for immutable
 
-week_days = ("Sunday" ,"Monday" ,"Tuesday" ,"Wednesday" ,"Thursday" ,"Friday" ,"Saturday")
 week_days = ("Sunday" ,"Monday" ,"Tuesday" ,"Wednesday" ,"Thursday" ,"Friday" ,"Saturday") 
 
 #example of immutable
